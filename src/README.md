@@ -3,7 +3,7 @@
 # Javier Andres Sierra - Emmanuel Montoya Salazar
 
 ## Environment used
-- Operating system: Microsoft Windows `10.0.26200.7840`
+- Operating system: Microsoft Windows 11 64bits
 - Programming language: Java (OpenJDK `17.0.16`)
 - Tools: `javac`, `java`, IDE: IntelliJ IDEA
 
